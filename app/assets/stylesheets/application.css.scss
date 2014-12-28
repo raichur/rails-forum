@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+
+ @import url(http://fonts.googleapis.com/css?family=Raleway:400,600);
+
+* {
+  font-family: 'Raleway';
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.header {
+  margin: 0 auto;
+  width: 60%;
+}
+
+a {
+  text-decoration: none;
+  color: #ca1643;
+  font-weight: 600;
+}
